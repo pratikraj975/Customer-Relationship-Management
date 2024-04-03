@@ -1,0 +1,59 @@
+.header_design
+{
+    height: auto;
+    width: 100%;
+    float: left;
+    padding: 20px;
+}
+.main_page_banner
+{
+    height: auto;
+    width: auto;
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/163/392/912/map-wold-map-technology-world-wallpaper-preview.jpg');
+    /* opacity: .8; */
+    /* background-size: cover; */
+}
+.main_page_title
+{
+    float: left;
+    margin-top: 80px;
+    font-size: 26px;
+    color: white;
+    text-shadow: 1px 1px 1px #ffff00;
+}
+.login_div_design
+{
+    padding: 40px;
+    box-shadow: 0px 0px 5px #cccccc;
+    float: left;
+    margin-top: 50px;
+}
+.addemp_div_design
+{
+    width: 70%;
+    padding: 40px;
+    box-shadow: 0px 0px 5px #cccccc;
+    float: left;
+    margin-top: 50px;
+}
+.form_div_design
+{
+	width: 100%;
+	padding: 40px;
+	box-shadow: 0px 0px 5px #cccccc;
+	float: left;
+    margin-top: 20px;
+}
+.error_message_design
+{
+	color: red;
+	font-size: 14px;
+	font-weight: bold;
+}
+.course_details_div
+{
+	height: auto;
+	width: auto;
+	padding: 20px;
+	box-shadow: 0px 0px 5px #cccccc;
+}
